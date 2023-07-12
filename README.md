@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Analyst,Statistics,Mathematics
 - 🌱 I’m currently learning Pyhton,Ml
 - 💞️ I’m looking to collaborate on project works
-- 📫 How to reach me 
 
 <!---
 shubhamkadwal/shubhamkadwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
